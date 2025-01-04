@@ -22,6 +22,7 @@ This project focuses on classifying hand gestures using Electromyography (EMG) d
 7. Conclusion
     - Insights and future directions.
 
+<br>
 
 ## Code Dependencies
 
@@ -33,6 +34,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn torch pytorch-lightning
 
 For hardware acceleration on macOS (using MPS), ensure you have macOS 12.3+ and a compatible Apple Silicon device.
 
+<br>
 
 ## Data Description
 
@@ -47,6 +49,8 @@ The dataset contains EMG signals from 8 channels for 8 gestures. The gestures in
 8. Unmarked (no gesture)
 
 Each gesture is performed for 3 seconds per trial, repeated twice by each participant.
+
+<br>
 
 ## Algorithms Used
 
@@ -68,6 +72,7 @@ Baseline models used for comparison:
   - Random Forest Classifier (with and without class balancing).
   - Linear Support Vector Machines (SVMs, calibrated for probabilistic outputs).
 
+<br>
 
 ## How to Use the Script
 
@@ -97,6 +102,7 @@ jupyter notebook EMG_Classification.ipynb
     - model.py for defining and training the models.
     - To visualize results, call the visualize_results function from the respective scripts.
 
+<br>
 
 ## Applications
 
@@ -106,6 +112,8 @@ This project has several real-world applications:
 3. Human-Machine Interaction: Enhancing gesture-based interfaces in wearable technology.
 4. Gaming and VR/AR: Gesture recognition for immersive user experiences.
 
-Conclusion
+<br>
+
+## Conclusion
 
 The study demonstrates the potential of modern deep learning techniques, particularly windowing-based methods, to outperform traditional machine learning models in terms of accuracy and testing speed. While the non-windowing approach with deep learning achieves comparable results, windowing captures temporal dependencies more effectively. This project underscores the importance of leveraging hardware acceleration for real-time applications and sets the foundation for optimizing EMG signal processing pipelines in advanced systems.
