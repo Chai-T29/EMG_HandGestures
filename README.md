@@ -19,3 +19,17 @@ This project focuses on classifying hand gestures using Electromyography (EMG) d
   - Proportions of classes, confusion matrices, and other relevant plots.
 7. Conclusion
   - Insights and future directions.
+
+
+## Algorithms Used
+
+### Deep Learning
+  - Windowing Technique:
+      A deep learning pipeline utilizing:
+    - Convolutional Neural Networks (CNNs) for feature extraction.
+    - Deep Cross Networks (DCNs) for efficient feature interaction.
+    - Multilayer Perceptron (MLP) for classification.
+    - Custom windowing to capture temporal dependencies over a sequence of 16 time steps.
+    - Hardware acceleration using Apple’s Metallic Performance Shaders (MPS).
+    - Non-Windowing Technique:
+A feedforward neural network designed to process individual time steps as separate samples. This approach avoids temporal aggregation and focuses on leveraging raw feature values.
