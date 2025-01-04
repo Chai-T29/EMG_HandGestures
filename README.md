@@ -6,19 +6,19 @@ This project focuses on classifying hand gestures using Electromyography (EMG) d
 
 ## Contents
 1. Introduction
-  - Overview of the project and objectives.
+    - Overview of the project and objectives.
 2. Data Description
-  - Source, structure, and characteristics of the dataset.
+    - Source, structure, and characteristics of the dataset.
 3. Data Preprocessing
-  - Handling class imbalance, feature scaling, and data transformations.
+    - Handling class imbalance, feature scaling, and data transformations.
 4. Modeling Approaches
-  - Windowing and non-windowing pipelines.
+    - Windowing and non-windowing pipelines.
 5. Evaluation Metrics
-  - Accuracy, precision, recall, and AUC-ROC for performance comparison.
+    - Accuracy, precision, recall, and AUC-ROC for performance comparison.
 6. Visualization
-  - Proportions of classes, confusion matrices, and other relevant plots.
+    - Proportions of classes, confusion matrices, and other relevant plots.
 7. Conclusion
-  - Insights and future directions.
+    - Insights and future directions.
 
 
 ## Algorithms Used
