@@ -121,35 +121,31 @@ The study demonstrates the potential of modern deep learning techniques, particu
 <br>
 
 ## References
-[1] Olmo, M. D., & Domingo, R. (2020). EMG Characterization and Processing in Production Engineering. Materials (Basel, Switzerland), 13(24), 5815. https://doi.org/10.3390/ma13245815
-[2] Raez, M. B., Hussain, M. S., & Mohd-Yasin, F. (2006). Techniques of EMG signal analysis: detection, processing, classification and applications. Biological procedures online, 8, 11– 35. https://doi.org/10.1251/bpo115
-[3] Rani, G. J., Hashmi, M. F., & Gupta, A. (2023). Surface Electromyography and Artificial Intelligence for Human Activity Recognition-A Systematic Review on Methods, Emerging Trends Applications, Challenges, and Future Implementation. IEEE Access, 11, 105140–105169. https://doi.org/10.1109/ACCESS.2023.3316509
-[4] Asogbon, Mojisola Grace, et al. "Effect of window conditioning parameters on the classification performance and stability of EMG-based feature extraction methods." 2018 IEEE International Conference on Cyborg and Bionic Systems (CBS). IEEE, 2018. https://doi.org/10.1109/CBS.2018.8612246
-[5] Krilova, N., Kastalskiy, I., Kazantsev, V., Makarov, V., & Lobov, S. (2018). EMG Data for Gestures [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5ZP5C.
-[6] Breiman, L. Random Forests. Machine Learning 45, 5–32 (2001). https://doi.org/10.1023/A:1010933404324
-[7] MPS backend — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/notes/mps.html
-[8] Bracewell, R. N. (1989). The Fourier Transform. Scientific American, 260(6), 86–95. http://www.jstor.org/stable/24987290
-[9] Lai, E. (2003). Frequency-domain representation of discrete-time signals. In Elsevier eBooks (pp. 61–78). https://doi.org/10.1016/b978-075065798-3/50004-7
-[10] Conv1d — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.Conv1d.html
-[11] LeakyReLU — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.LeakyReLU.html
-[12] ReLU — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.ReLU.html
-[13] Dureja, A., & Pahwa, P. (2019). Analysis of nonlinear activation functions for classification tasks using convolutional neural networks. In Lecture notes in electrical engineering (pp. 1179–1190). https://doi.org/10.1007/978-981-13-6772-4_103
-[14] BatchNorm1d — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.BatchNorm1d.html
-[15] MaxPool1d — PyTorch 2.5 documentation. (n.d.). 13
-              
-https://pytorch.org/docs/stable/generated/torch.nn.MaxPool1d.html
-[16] Dropout1d — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.Dropout1d.html
-[17] Wang, R., Shivanna, R., Cheng, D., Jain, S., Lin, D., Hong, L., & Chi, E. (2021, April). Dcn v2: Improved deep & cross network and practical lessons for web-scale learning to rank systems. In Proceedings of the web conference 2021 (pp. 1785-1797). https://arxiv.org/abs/2008.13535
-[18] R. Johnson, C. (1974). Hadamard products of matrices. Linear and Multilinear Algebra, 1(4), 295–307. https://doi.org/10.1080/03081087408817030
-[19] LayerNorm — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.LayerNorm.html
-[20] Linear — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.Linear.html
-[21] RandomForestClassifier. (n.d.). Scikit-learn. https://scikit-
-learn.org/1.5/modules/generated/sklearn.ensemble.RandomForestClassifier.html
-[22] He, X., Du, X., Wang, X., Tian, F., Tang, J., & Chua, T. (2018, August 12). Outer product-based neural collaborative filtering. arXiv.org. https://arxiv.org/abs/1808.03912
-[23] CrossEntropyLoss — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html
-[24] Adam — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.optim.Adam.html
-[25] accuracy_score. (n.d.). Scikit-learn. https://scikit-learn.org/1.5/modules/generated/sklearn.metrics.accuracy_score.html
-[26] confusion_matrix. (n.d.). Scikit-learn. https://scikit-
-learn.org/dev/modules/generated/sklearn.metrics.confusion_matrix.html
-[27] Zhuang, F., Qi, Z., Duan, K., Xi, D., Zhu, Y., Zhu, H., Xiong, H., & He, Q. (2019, November 7). A comprehensive survey on transfer learning. arXiv.org. https://arxiv.org/abs/1911.02685
-[28] Malešević, N., Olsson, A., Sager, P., Andersson, E., Cipriani, C., Controzzi, M., Björkman, A., & Antfolk, C. (2021). A database of high-density surface electromyogram signals comprising 65 isometric hand gestures. Scientific Data, 8(1). https://doi.org/10.1038/s41597-021-00843-9
+1. Olmo, M. D., & Domingo, R. (2020). EMG Characterization and Processing in Production Engineering. Materials (Basel, Switzerland), 13(24), 5815. https://doi.org/10.3390/ma13245815
+2. Raez, M. B., Hussain, M. S., & Mohd-Yasin, F. (2006). Techniques of EMG signal analysis: detection, processing, classification and applications. Biological procedures online, 8, 11– 35. https://doi.org/10.1251/bpo115
+3. Rani, G. J., Hashmi, M. F., & Gupta, A. (2023). Surface Electromyography and Artificial Intelligence for Human Activity Recognition-A Systematic Review on Methods, Emerging Trends Applications, Challenges, and Future Implementation. IEEE Access, 11, 105140–105169. https://doi.org/10.1109/ACCESS.2023.3316509
+4. Asogbon, Mojisola Grace, et al. "Effect of window conditioning parameters on the classification performance and stability of EMG-based feature extraction methods." 2018 IEEE International Conference on Cyborg and Bionic Systems (CBS). IEEE, 2018. https://doi.org/10.1109/CBS.2018.8612246
+5. Krilova, N., Kastalskiy, I., Kazantsev, V., Makarov, V., & Lobov, S. (2018). EMG Data for Gestures [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5ZP5C.
+6. Breiman, L. Random Forests. Machine Learning 45, 5–32 (2001). https://doi.org/10.1023/A:1010933404324
+7. MPS backend — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/notes/mps.html
+8. Bracewell, R. N. (1989). The Fourier Transform. Scientific American, 260(6), 86–95. http://www.jstor.org/stable/24987290
+9. Lai, E. (2003). Frequency-domain representation of discrete-time signals. In Elsevier eBooks (pp. 61–78). https://doi.org/10.1016/b978-075065798-3/50004-7
+10. Conv1d — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.Conv1d.html
+11. LeakyReLU — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.LeakyReLU.html
+12. ReLU — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.ReLU.html
+13. Dureja, A., & Pahwa, P. (2019). Analysis of nonlinear activation functions for classification tasks using convolutional neural networks. In Lecture notes in electrical engineering (pp. 1179–1190). https://doi.org/10.1007/978-981-13-6772-4_103
+14. BatchNorm1d — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.BatchNorm1d.html
+15. MaxPool1d — PyTorch 2.5 documentation. (n.d.). 13 https://pytorch.org/docs/stable/generated/torch.nn.MaxPool1d.html
+16. Dropout1d — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.Dropout1d.html
+17. Wang, R., Shivanna, R., Cheng, D., Jain, S., Lin, D., Hong, L., & Chi, E. (2021, April). Dcn v2: Improved deep & cross network and practical lessons for web-scale learning to rank systems. In Proceedings of the web conference 2021 (pp. 1785-1797). https://arxiv.org/abs/2008.13535
+18. R. Johnson, C. (1974). Hadamard products of matrices. Linear and Multilinear Algebra, 1(4), 295–307. https://doi.org/10.1080/03081087408817030
+19. LayerNorm — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.LayerNorm.html
+20. Linear — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.Linear.html
+21. RandomForestClassifier. (n.d.). Scikit-learn. https://scikit-learn.org/1.5/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+22. He, X., Du, X., Wang, X., Tian, F., Tang, J., & Chua, T. (2018, August 12). Outer product-based neural collaborative filtering. arXiv.org. https://arxiv.org/abs/1808.03912
+23. CrossEntropyLoss — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html
+24. Adam — PyTorch 2.5 documentation. (n.d.). https://pytorch.org/docs/stable/generated/torch.optim.Adam.html
+25. accuracy_score. (n.d.). Scikit-learn. https://scikit-learn.org/1.5/modules/generated/sklearn.metrics.accuracy_score.html
+26. confusion_matrix. (n.d.). Scikit-learn. https://scikit-learn.org/dev/modules/generated/sklearn.metrics.confusion_matrix.html
+27. Zhuang, F., Qi, Z., Duan, K., Xi, D., Zhu, Y., Zhu, H., Xiong, H., & He, Q. (2019, November 7). A comprehensive survey on transfer learning. arXiv.org. https://arxiv.org/abs/1911.02685
+28. Malešević, N., Olsson, A., Sager, P., Andersson, E., Cipriani, C., Controzzi, M., Björkman, A., & Antfolk, C. (2021). A database of high-density surface electromyogram signals comprising 65 isometric hand gestures. Scientific Data, 8(1). https://doi.org/10.1038/s41597-021-00843-9
