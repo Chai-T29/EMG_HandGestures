@@ -79,8 +79,8 @@ Baseline models used for comparison:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/emg-classification.git
-cd emg-classification
+git clone https://github.com/Chai-T29/EMG_HandGestures.git
+cd EMG_HandGestures
 ```
 
 2. Place the dataset in the EMG_data folder.
